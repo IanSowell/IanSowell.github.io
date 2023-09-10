@@ -6,7 +6,7 @@ body{
     margin: 0;
     background-image: url('images/Firewatch\ Mod\ v2.png');
 }
-a{
+a {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
@@ -45,95 +45,79 @@ a{
     font-size: 20px;
 }
 
-.game1{
+.game1 {
     background-image: url("images/The_Lonely_Forest-Thumbnail.jpg");
-    background-size:contain;
+    background-size: cover;
     background-repeat: no-repeat;
     grid-column: 2/4;
     grid-row: 2/2;
-    /*margin-top: 125px;
-    margin-left: 100px;
-    max-width: 400px;
-    max-height: 300px;*/
     margin-left: 200px;
     padding-top: 40px;
-
     transition: .2s;
     text-align: center;
     color: rgba(255, 255, 255, 0);
-
+    text-shadow: -1px 0 rgba(255, 255, 255, 0), 0 1px rgba(255, 255, 255, 0), 1px 0 rgba(255, 255, 255, 0), 0 -1px rgba(255, 255, 255, 0);
 }
-.game1:hover{
+.game1:hover {
     color: rgba(255, 255, 255, 1);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 
-.game2{
+.game2 {
     background-image: url("images/SpaceMarineThumbnail.png");
-    background-size:contain;
+    background-size: cover;
     background-repeat: no-repeat;
     grid-column: 5/7;
     grid-row: 2/2;
-    /*margin-top: 125px;
-    margin-left: 100px;
-    max-width: 200px;
-    max-height: 100px;*/
     margin-right: 100px;
     padding-top: 40px;
-
     transition: .2s;
     text-align: center;
     color: rgba(255, 255, 255, 0);
-
+    text-shadow: -1px 0 rgba(255, 255, 255, 0), 0 1px rgba(255, 255, 255, 0), 1px 0 rgba(255, 255, 255, 0), 0 -1px rgba(255, 255, 255, 0);
 }
-.game2:hover{
+.game2:hover {
     color: rgba(255, 255, 255, 1);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 
-.game3{
+.game3 {
     background-image: url("images/AlienGameStore-Thumbnail.png");
-    background-size:contain;
+    background-size: cover;
     background-repeat: no-repeat;
     grid-column: 2/4;
     grid-row: 4/4;
-    /*8margin-top: 125px;
-    margin-left: 100px;
-    max-width: 200px;
-    max-height: 100px;*/
     margin-left: 200px;
     padding-top: 40px;
-
     transition: .2s;
     text-align: center;
     color: rgba(255, 255, 255, 0);
-
+    text-shadow: -1px 0 rgba(255, 255, 255, 0), 0 1px rgba(255, 255, 255, 0), 1px 0 rgba(255, 255, 255, 0), 0 -1px rgba(255, 255, 255, 0);
 }
-.game3:hover{
+.game3:hover {
     color: rgba(255, 255, 255, 1);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 
-.game4{
+.game4 {
     background-image: url("images/Mikaira-Thumbnail.png");
-    background-size:contain;
+    background-size: cover;
     background-repeat: no-repeat;
     grid-column: 5/7;
     grid-row: 4/4;
-    /*margin-top: 125px;
-    margin-left: 100px;
-    max-width: 200px;
-    max-height: 100px;*/
     margin-right: 100px;
     padding-top: 40px;
-
     transition: .2s;
     text-align: center;
     color: rgba(255, 255, 255, 0);
-
+    text-shadow: -1px 0 rgba(255, 255, 255, 0), 0 1px rgba(255, 255, 255, 0), 1px 0 rgba(255, 255, 255, 0), 0 -1px rgba(255, 255, 255, 0);
 }
-.game4:hover{
+.game4:hover {
     color: rgba(255, 255, 255, 1);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 
@@ -146,15 +130,15 @@ a{
     padding-top: 80px;
 }
 
-.GameName{
+.GameName {
     font-size: 24px;
     text-align: center;
 }
-.GenreType{
+.GenreType {
     font-size: 22px;
     text-align: center;
 }
-.Contributions{
+.Contributions {
     font-size: 20px;
     text-align: center;
 }
