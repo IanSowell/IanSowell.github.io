@@ -78,7 +78,7 @@ a{
     font-size: 10px;
 }
 .bestGame:hover{
-    background-image: url('images/The_Lonely_Forest-Thumbnail.jpg');
+    background-image: url('images/The_Lonely_Forest-Thumbnail(transparent).png');
     background-color: rgba(0, 0, 0, .5);
     color: rgba(255, 255, 255, 1);
     font-size: 25px;
