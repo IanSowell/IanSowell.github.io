@@ -1,2 +1,3 @@
 # iansowell.github.io
-Repository For My Portfolio Website.
+Bruh, you're not supposed to be here.
+Please go to "https://iansowell.github.io/home.html"
